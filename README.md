@@ -48,3 +48,11 @@ The script:
 6. Compares the champions under both systems.
 7. Identifies seasons where the champion would have changed.
 8. Calculates how often this happens.
+
+## Results
+
+There is no evidence that the change in the points-awarding system would have produced substantially different outcomes. Across the 150 seasons analyzed, only 7 seasons (4.67%) would have had a different winner. This occurs especially when the difference in the number of wins between first and second place is minimal and the second-placed team has more draws. In such cases, the two-point system may produce a different winner.
+
+## Research on the topic
+
+Extensive research has examined whether this change made the sport more interesting, for example by increasing competitiveness or intensity, and whether it substantially increased the number of goals scored. However, no clear evidence has been found.
