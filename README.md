@@ -21,6 +21,13 @@ The analysis includes:
 
 The analysis begins with the 1995/96 season, when the 3-point-for-a-win system was adopted following its successful implementation at the 1994 FIFA World Cup.
 
+## Required R Packages
+
+```r
+library(tidyverse)
+library(magrittr)
+```
+
 ## What the Code Does
 
 The script:
@@ -41,10 +48,3 @@ The script:
 6. Compares the champions under both systems.
 7. Identifies seasons where the champion would have changed.
 8. Calculates how often this happens.
-
-## Required R Packages
-
-```r
-library(tidyverse)
-library(magrittr)
-```
