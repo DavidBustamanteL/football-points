@@ -1,6 +1,6 @@
 # Football League Tables under 2- and 3-Point Systems
 
-This project uses football match data from [football-data.co.uk](https://www.football-data.co.uk/) to recreate league tables for UEFA’s Top 5 leagues and compare champions under two different point systems:
+This project uses football match data from <a href="https://www.football-data.co.uk/" target="_blank" rel="noopener noreferrer">football-data.co.uk</a> to recreate league tables for UEFA’s Top 5 leagues and compare champions under two different point systems:
 
 - 3 points for a win
 - 2 points for a win
