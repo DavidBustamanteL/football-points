@@ -11,11 +11,11 @@ The goal is to examine whether league winners would have changed under the older
 
 The analysis includes:
 
-- England 
-- Spain 
-- Italy 
-- Germany 
-- France 
+- Premier League (England) 
+- La Liga (Spain)
+- Serie A (Italy)
+- Bundesliga (Germany)
+- Ligue 1 (France)
 
 ## Seasons Covered
 
