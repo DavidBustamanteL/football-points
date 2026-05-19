@@ -11,11 +11,11 @@ The goal is to examine whether league winners would have changed under the older
 
 The analysis includes:
 
-- England 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-- Spain 🇪🇸
-- Italy 🇮🇹
-- Germany 🇩🇪
-- France 🇫🇷
+- England 
+- Spain 
+- Italy 
+- Germany 
+- France 
 
 ## Seasons Covered
 
