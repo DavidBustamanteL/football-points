@@ -5,7 +5,7 @@ This project uses football match data from <a href="https://www.football-data.co
 - 3 points for a win
 - 2 points for a win
 
-The goal is to examine whether league winners would have changed under the older 2-point rule.
+The project demonstrates how football match data can be obtained from online data sources in R and used to compare league outcomes under different point-awarding rules.
 
 ## Leagues Covered
 
