@@ -2,7 +2,7 @@
 rm(list = ls())
 
 # Packages
-library(dplyr)
+library(tidyverse)
 library(magrittr)
 
 # Selecting just the UEFA's Top5 Leagues
