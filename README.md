@@ -65,4 +65,4 @@ There is no evidence that the change in the points-awarding system would have pr
 
 ## Research on the topic
 
-Extensive research has examined whether this change made the sport more interesting, for example by increasing competitiveness or intensity, and whether it substantially increased the number of goals scored. However, no clear evidence has been found.
+Extensive research has examined whether this change made the sport more interesting, for example by increasing competitiveness or intensity, and whether it substantially increased the number of goals scored. However, no clear evidence has been found. [Hon and Parinduri](https://journals.sagepub.com/doi/10.1177/1527002514531790) find that the three-point rule did not make Bundesliga games more decisive, increase the number of goals, or reduce goal differences. Similarly, [Efthimiou, Griffiths, and Wright](https://pdfs.semanticscholar.org/c50c/3323938421bf272859487ee545a4633ef3d9.pdf) show that alternative point systems generally have only a limited effect on final league standings.
