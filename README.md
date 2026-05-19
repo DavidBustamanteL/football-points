@@ -11,15 +11,15 @@ The goal is to examine whether league winners would have changed under the older
 
 The analysis includes:
 
-- England :England:
-- Spain :Spain:
-- Italy :Italy:
-- Germany :Germany:
-- France :France:
+- England 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+- Spain 🇪🇸
+- Italy 🇮🇹
+- Germany 🇩🇪
+- France 🇫🇷
 
 ## Seasons Covered
 
-The code downloads and processes seasons from **1995/96 to 2024/25**.
+The analysis begins with the 1995/96 season, when the 3-point-for-a-win system was adopted following its successful implementation at the 1994 FIFA World Cup.
 
 ## What the Code Does
 
@@ -33,7 +33,7 @@ The script:
    - home team
    - away team
    - home goals
-   - away goals
+   - visitor goals
 4. Builds league tables under a chosen points rule.
 5. Creates separate tables for:
    - the current 3-point system
