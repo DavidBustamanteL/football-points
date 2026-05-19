@@ -53,6 +53,16 @@ The script:
 
 There is no evidence that the change in the points-awarding system would have produced substantially different outcomes. Across the 150 seasons analyzed, only 7 seasons (4.67%) would have had a different winner. This occurs especially when the difference in the number of wins between first and second place is minimal and the second-placed team has more draws. In such cases, the two-point system may produce a different winner.
 
+| Season    | League  | Actual champion | Points under 3-pt system | Champion under 2-pt system | Points under 2-pt system |
+|-----------|---------|-----------------|--------------------------|----------------------------|--------------------------|
+| 2018/2019 | England | Man City        | 98                       | Liverpool                  | 67                       |
+| 1997/1998 | France  | Lens            | 68                       | Metz                       | 48                       |
+| 2000/2001 | France  | Nantes          | 68                       | Lyon                       | 47                       |
+| 2022/2023 | France  | Paris SG        | 85                       | Lens                       | 59                       |
+| 1999/2000 | Germany | Bayern Munich   | 73                       | Leverkusen                 | 52                       |
+| 2000/2001 | Germany | Bayern Munich   | 63                       | Schalke 04                 | 44                       |
+| 2019/2020 | Italy   | Juventus        | 83                       | Inter                      | 58                       |
+
 ## Research on the topic
 
 Extensive research has examined whether this change made the sport more interesting, for example by increasing competitiveness or intensity, and whether it substantially increased the number of goals scored. However, no clear evidence has been found.
